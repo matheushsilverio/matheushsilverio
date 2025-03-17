@@ -13,9 +13,21 @@ I'm a **full-stack software engineer** and entrepreneur. Over the years, I've be
 - Structuring **startups from the first steps**.  
 - Designing **robust and efficient architectures**.  
 - Working with **cloud computing (AWS/GCP)**.  
-- Bridging **technology and business** for fast and sustainable growth.  
+- Bridging **technology and business** for fast and sustainable growth.
+
+## 📦 Useful Templates  
+I’ve built some starter templates to help developers kickstart their projects:  
+
+- **REST API with TypeScript + DynamoDB (Serverless Framework)**  
+  [GitHub sls-ts-restapi-dynamodb](https://github.com/matheushsilverio/sls-ts-restapi-dynamodb)  
+
+- **REST API with TypeScript + PostgreSQL (Serverless Framework)**  
+  [GitHub sls-ts-restapi-postgressql](https://github.com/matheushsilverio/sls-ts-restapi-postgressql)  
+
+- **Serverless Stack Example (Offline microservices + frontend integration)**  
+  [GitHub sls-stack-example](https://github.com/matheushsilverio/sls-stack-example)  
+
+Feel free to check them out and use them for your own projects! 🚀  
 
 ## 📫 Let’s talk!  
 Hit me up on [LinkedIn](https://www.linkedin.com/in/matheus-silverio/) or drop me an email: matheushsilverio@gmail.com.  
-
-If you’re launching a project and need someone to **supercharge the tech side**, let's chat! 🚀  
