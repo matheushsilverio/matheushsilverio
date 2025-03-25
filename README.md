@@ -30,4 +30,4 @@ I’ve built some starter templates to help developers kickstart their projects:
 Feel free to check them out and use them for your own projects! 🚀  
 
 ## 📫 Let’s talk!  
-Hit me up on [LinkedIn](https://www.linkedin.com/in/matheus-silverio/) or drop me an email: matheushsilverio@gmail.com.  
+Hit me up on [LinkedIn](https://www.linkedin.com/in/matheus-silverio/)
